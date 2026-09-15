@@ -1,0 +1,6 @@
+{
+  "name": "Clarity.ai",
+  "description": "A responsive AI chatbot web prototype replicating the warm aesthetic, thinking process, and artifacts panel of Claude.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
